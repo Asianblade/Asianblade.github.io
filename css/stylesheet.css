@@ -14,7 +14,7 @@ h1 {
 
 body {
     background-color: black;
-    cursor: url('https://cdn.discordapp.com/attachments/842610340168728588/943046166797492284/cursor.png'), auto;
+    cursor: url('https://cdn.discordapp.com/attachments/842610340168728588/943046166797492284/cursor.png'), auto;   
 }
 
 p {
@@ -75,7 +75,9 @@ b {
 }
 
 img:hover {
-    background-color:white;
     transition-duration:0.5s;
     border-radius: 90px;
+    background:#FFFFFF; color: #000;
+    box-shadow: 0px 0px 10px #03ff4a, 0px 0px 40px#03ff4a, 0px 0px 80px #03ff4a; transition-delay: 0.2s;
 }
+
