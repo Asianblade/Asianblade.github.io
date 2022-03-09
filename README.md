@@ -1,2 +1,2 @@
-# Nonsense1
-evan u bimbo could u possibly make it worse
+# BRIEF DESCRIPTION
+CREDIT GOES TO THAT EVAN BLOKE - IM ONLY RESPONSIBLE FOR THE FUNDING AND MIMICKING.
