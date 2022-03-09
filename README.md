@@ -1,2 +1,2 @@
-# BRIEF DESCRIPTION
-CREDIT GOES TO THAT EVAN BLOKE - IM ONLY RESPONSIBLE FOR THE FUNDING AND MIMICKING.
+# very funny terminal template
+a simple terminal template for nerds
